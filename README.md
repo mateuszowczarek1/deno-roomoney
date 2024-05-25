@@ -1,8 +1,5 @@
 # Roomoney
 
-![Activity shield](https://img.shields.io/github/commit-activity/y/rearwindowsoda/deno-roomoney?style=plastic)
-![Activity shield 2](https://img.shields.io/github/last-commit/rearwindowsoda/deno-roomoney)
-
 <img src="static/images/roomoney_logo.webp" width="200" height="auto" alt="Roomoney Logo" style="display: block; margin: 0 auto;">
 
 Check out the app here: [Roomoney](https://roomoney.rearwindowsoda.click)
