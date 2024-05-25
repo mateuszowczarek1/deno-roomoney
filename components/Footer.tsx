@@ -8,9 +8,9 @@ function Footer() {
           <p>
             Created by{"  "}
             <Anchor
-              link="https://github.com/rearwindowsoda"
+              link="https://github.com/mateuszowczarek1"
               target="blank"
-              name="rearwindowsoda"
+              name="mateuszowczarek1"
             />.
           </p>
           <p>
