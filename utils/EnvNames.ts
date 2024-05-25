@@ -1,0 +1,8 @@
+enum EnvNames {
+  BASE_URL = "BASE_URL",
+  DENO_ENV = "DENO_ENV",
+  COOKIE_SECRET = "COOKIE_SECRET",
+  DB_CONNECTION_STRING = "DB_CONNECTION_STRING",
+}
+
+export default EnvNames;

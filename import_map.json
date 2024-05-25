@@ -1,0 +1,21 @@
+{
+  "imports": {
+    "@/": "./",
+    "httpStatus": "https://deno.land/std@0.153.0/http/http_status.ts",
+    "std/": "https://deno.land/std@0.160.0/",
+    "dotenv": "https://deno.land/std@0.176.0/dotenv/mod.ts",
+    "uuid": "https://deno.land/std@0.176.0/uuid/v1.ts",
+    "bcrypt": "https://deno.land/x/bcrypt@v0.4.1/mod.ts",
+    "$fresh/": "https://deno.land/x/fresh@1.4.2/",
+    "squishyCookies": "https://deno.land/x/squishy_cookies@v0.2.4/mod.ts",
+    "zod": "https://deno.land/x/zod@v3.16.1/mod.ts",
+    "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.2.3",
+    "@preact/signals": "https://esm.sh/*@preact/signals@1.1.3",
+    "preact-render-to-string": "https://esm.sh/*preact-render-to-string@6.2.1",
+    "preact": "https://esm.sh/preact@10.15.1",
+    "preact/": "https://esm.sh/preact@10.15.1/",
+    "mongodb": "npm:mongodb"
+  },
+  "scopes": {
+  }
+}
